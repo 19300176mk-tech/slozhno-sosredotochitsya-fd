@@ -29,11 +29,8 @@
     --decorated-zone-color: #353430;
   }
 
+  .theme-light .rec,
   .theme-auto .rec {
     display: none;
   }
-}
-
-.theme-light .rec {
-    display: none;
 }

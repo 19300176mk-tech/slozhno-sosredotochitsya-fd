@@ -491,7 +491,7 @@ img {
     inline-size: 100%;
   }
 
- .header__theme-menu {
+  .header__theme-menu {
     position: absolute;
     inset-block-start: 20px;
     inset-inline: 0;
