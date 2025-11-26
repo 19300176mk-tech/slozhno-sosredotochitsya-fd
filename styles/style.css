@@ -19,7 +19,7 @@
   inline-size: 100%;
   block-size: 100vh;
   min-block-size: 668px;
-  padding: 10px;
+  padding: 0 10px;
 }
 
 .decorated-zone {
@@ -242,8 +242,7 @@
 .gallery__image {
   display: block;
   inline-size: 100%;
-  block-size: 100%;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 img {
@@ -322,7 +321,7 @@ img {
     grid-template-rows: 1fr min-content 1fr;
     inline-size: 100%;
     min-block-size: 1024px;
-    padding-block: 20px;
+    /*padding-block: 20px;*/
   }
 
   .header__title,
