@@ -1,8 +1,10 @@
-/*
-  Переменные для вашего проекта
-  и их переопределение под различные устройства
-*/
 :root {
+    /*шрифты*/
+  --font-size-base: 18px;
+  --font-size-h2: 18px;
+  --font-size-h3: 18px;
+  --font-size-h4: 18px;
+
   /*цвета*/
   --page-bg-image: url("../images/cover-image-dark.png");
   --page-bg-color: #000028;
@@ -15,10 +17,5 @@
   --link-color: var(--accent-color);
   --menu-color: #ff0070;
   --button-hover-color: rgba(255, 0, 112, 0.4);
-
-  /*шрифты*/
-  --font-size-base: 18px;
-  --font-size-h2: 18px;
-  --font-size-h3: 18px;
-  --font-size-h4: 18px;
+  --decorated-zone-color: var(--accent-color);
 }
