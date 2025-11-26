@@ -11,8 +11,6 @@
   --menu-color: #353430;
   --button-hover-color: rgba(50, 49, 45, 0.4);
   --decorated-zone-color: #353430;
-
-
 }
 
 @media (prefers-color-scheme: light) {
@@ -36,7 +34,6 @@
   }
 }
 
- /*убрал лампочку*/
-  .theme-light .rec {
+.theme-light .rec {
     display: none;
-  }
+}
