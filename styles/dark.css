@@ -5,8 +5,8 @@
   --title-text-color: #000028;
   --text-color: #F1B2CE;
   --accent-color: #ff0070;
-  --h1-color: #DB00FF;
-  --h2-color: var(--accent-color);
+  --primary-title-color: #DB00FF;
+  --section-title-color: var(--accent-color);
   --link-color: var(--accent-color);
   --menu-color: #ff0070;
   --button-hover-color: rgba(255, 0, 112, 0.4);

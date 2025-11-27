@@ -5,8 +5,8 @@
   --accent-color: #ff8dcb;
   --title-bg-color: #ff8dcb;
   --title-text-color: #353430;
-  --h1-color: #ffc2e6;
-  --h2-color: var(--text-color);
+  --primary-title-color: #ffc2e6;
+  --section-title-color: var(--text-color);
   --link-color: var(--accent-color);
   --menu-color: #353430;
   --button-hover-color: rgba(50, 49, 45, 0.4);
@@ -25,8 +25,8 @@
     --accent-color: #ff8dcb;
     --title-bg-color: #ff8dcb;
     --title-text-color: #353430;
-    --h1-color: #ffc2e6;
-    --h2-color: var(--text-color);
+    --primary-title-color: #ffc2e6;
+    --section-title-color: var(--text-color);
     --link-color: var(--accent-color);
     --menu-color: #353430;
     --button-hover-color: rgba(50, 49, 45, 0.4);
